@@ -1,5 +1,9 @@
 # Difference-in-int-Arrays
 
+Makes use of:
+ - Streams
+ - Scanner
+
 After user enters the first array elements and the second array elements separated by space,
 calculates the difference between two int[] arrays, say array a and array b, i.e: a-b
 and returns the result as another int[] array.
